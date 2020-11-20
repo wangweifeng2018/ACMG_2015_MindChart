@@ -1,1 +1,1 @@
-# ACMG_blabla
+# A ACMG mindchart.
